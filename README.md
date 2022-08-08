@@ -1,4 +1,4 @@
-<h1 align="center"> :coffee: Desafio-RocketCoffe </h1>
+<h1 align="center"> :coffee: Desafio Rocketcoffe </h1>
 
 
 - ## Maratona Explorer Rocketseat 
