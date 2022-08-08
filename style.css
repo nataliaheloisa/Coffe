@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(211, 187, 165);
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    margin: 25px auto;
+}
+
+h1{
+    color: rgba(163, 40, 40, 0.774);
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
