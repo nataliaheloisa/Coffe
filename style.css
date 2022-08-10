@@ -25,6 +25,11 @@ header {
 }
 
 
+img{
+    max-width: 100px;
+    margin: 20px 0px 0px 0px;
+}
+
 header h1 {
     margin-bottom: 4px;
     font-size: 28px;
